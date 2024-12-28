@@ -1,0 +1,6 @@
+Appium-Python-Client
+pytest
+pytest-html
+
+Install Python dependencies using npm:
+npm run install-python-deps
